@@ -1,5 +1,6 @@
 {
   "name": "jdwx/kv",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "JDWX\\KV\\": "src/"
